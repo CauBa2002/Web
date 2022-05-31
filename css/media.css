@@ -1,0 +1,37 @@
+@media screen and (max-width: 414px) {
+    .header-container{
+        padding-left: 5px;
+    }
+
+    .header-logo{
+        /* width: 50px; */
+        padding-left: 10px;
+    }
+
+    .header-logo img{
+        width: 50px;
+    }
+
+    .header-search{
+        border: none;
+        padding: 0px 0px;
+        margin-left: 10px;
+    }
+
+    .header-search input{
+        display: none;
+    }
+
+    .header-navigation{
+
+    }
+
+    .border-navi{
+        border: none;
+    }
+
+    .border-navi a{
+        display: none;
+    }
+
+}
